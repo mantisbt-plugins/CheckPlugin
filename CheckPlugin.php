@@ -8,8 +8,8 @@ class CheckPluginPlugin extends MantisPlugin {
 		$this->requires    	= array('MantisCore'       => '2.0.0',);
 		$this->author      	= 'Cas Nuy';
 		$this->contact     	= 'Cas-at-nuy.info';
-		$this->url			= 'http://www.nuy.info';
-		$this->page			= 'config';
+		$this->url		= 'https://github.com/mantisbt-plugins/CheckPlugin';
+		$this->page		= 'config';
 	}
 
  	function config() {
