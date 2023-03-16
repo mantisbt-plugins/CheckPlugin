@@ -37,3 +37,5 @@ In case the plugins are hosted @ Github, the urls need to use the following synt
 Devurl: https://github.com/mantisbt-plugins/CheckPlugin/blob/main/version.txt #
 Location: https://github.com/mantisbt-plugins/CheckPlugin/archive/refs/heads/main.zip #
 Replace "CheckPlugin" with the name of your plugin.
+
+NB: this  plugin check is available on all plugins created by me
