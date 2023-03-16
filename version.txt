@@ -1,0 +1,3 @@
+Version: 1.02 #
+Devurl: https://github.com/mantisbt-plugins/CheckPlugin/blob/main/version.txt #
+Location: https://github.com/mantisbt-plugins/CheckPlugin/archive/refs/heads/main.zip #

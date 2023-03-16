@@ -1,0 +1,19 @@
+<?PHP
+	$s_plugin_name 			= "CheckPlugin Plugin";
+	$s_plugin_desc		 	= "Check plugins for updates";
+	$s_plugin_manage 		= "Check Plugins";
+	$s_plugin_config		= "Configuration";
+	$s_change_config 		= "Update Config";
+	$s_download_location	= "Location where files are downloaded on server (including trailing slash)";
+	$s_enabled				= 'Yes';
+	$s_disabled				= 'No';
+	$s_download_update		= 'Download updates';
+	$s_recipient			= 'Send updates-mail to';
+	$s_plugin_format_title	= 'Confgure plugin';
+	$s_plugin_status		= 'Plugin Status';
+	$s_plugin_updates		= 'Plugin Update Info';
+	$s_new_version			= 'New Version Available => ';
+	$s_no_update			= 'No Update Found';
+	$s_no_local_file		= 'Cannot validate, "version.txt" is missing on your system: ';
+	$s_no_remote_file		= 'Cannot validate, "version.txt"is not found at developer: ';
+	$s_download				= ' You can download here : ';

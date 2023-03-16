@@ -1,0 +1,4 @@
+Version 1.00	05-05-2020	Initial release
+Version 1.01				Removed fixed text
+							Added script for cron/task job
+Version 1.02	17-03-2023	Ensured it will work with GitHub repositoryVerfied 
