@@ -4,7 +4,7 @@ class CheckPluginPlugin extends MantisPlugin {
 	function register() {
 		$this->name        	= lang_get( 'plugin_name' );
 		$this->description 	= lang_get( 'plugin_desc' );
-		$this->version     	= '1.02';
+		$this->version     	= '1.03';
 		$this->requires    	= array('MantisCore'       => '2.0.0',);
 		$this->author      	= 'Cas Nuy';
 		$this->contact     	= 'Cas-at-nuy.info';
@@ -14,9 +14,9 @@ class CheckPluginPlugin extends MantisPlugin {
 
  	function config() {
 		return array(
-			'recipient'	=> 'admin@mantis.com',
-			'download_update'		=> ON,
-			'download location' => '/tmp/' ,
+			'recipient'		=> 'admin@mantis.com',
+			'download_update'	=> ON,
+			'download_location'	=> '/tmp/' ,
 			);
 	}
 
