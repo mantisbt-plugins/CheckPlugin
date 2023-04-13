@@ -1,6 +1,6 @@
 ########################################################
 # 	Mantis Bugtracker Add-On
-# 	CheckPlugin Version 1.02
+# 	CheckPlugin Version 1.03
 #	2023 plugin by Cas Nuy www.NUY.info
 ########################################################
 
@@ -14,7 +14,7 @@ As a scheduled job, an email is send to the defined email adddress. Message will
 Prerequisites
 The plugin expects to find a file called version.txt in the root of the plugin directory.
 This plugin should have 3 entries:
-Version: 1.02 #
+Version: 1.03 #
 Devurl: http://www.nuy.info/mantisplugins/CheckPlugin/version.txt #
 Location: http://www.nuy.info/mantisplugins/updatedplugin.zip #
 Version holds the version of the plugin installed.
