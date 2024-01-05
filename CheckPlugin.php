@@ -4,7 +4,7 @@ class CheckPluginPlugin extends MantisPlugin {
 	function register() {
 		$this->name        	= lang_get( 'plugin_name' );
 		$this->description 	= lang_get( 'plugin_desc' );
-		$this->version     	= '1.03';
+		$this->version     	= '1.04';
 		$this->requires    	= array('MantisCore'       => '2.0.0',);
 		$this->author      	= 'Cas Nuy';
 		$this->contact     	= 'Cas-at-nuy.info';

@@ -12,4 +12,4 @@ plugin_config_set( 'download_location', $f_download_location );
 plugin_config_set( 'download_update', $f_download_update );
 plugin_config_set( 'recipient', $f_recipient );
 // redirect
-print_successful_redirect( "manage_plugin_page.php" );
+print_header_redirect( "manage_plugin_page.php" );

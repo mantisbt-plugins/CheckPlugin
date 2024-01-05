@@ -1,5 +1,6 @@
 Version 1.00	05-05-2020	Initial release
 Version 1.01				Removed fixed text
 							Added script for cron/task job
-Version 1.02	17-03-2023	Ensured it will work with GitHub repositoryVerfied 
+Version 1.02	17-03-2023	Ensured it will work with GitHub repository 
 Version 1.03	13-04-2023	Fixed typo
+Version 1.04	07-01-2024	Removed print_successful_redirect function
