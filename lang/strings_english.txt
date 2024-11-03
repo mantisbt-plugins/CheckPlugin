@@ -17,3 +17,4 @@
 	$s_no_local_file		= 'Cannot validate, "version.txt" is missing on your system: ';
 	$s_no_remote_file		= 'Cannot validate, "version.txt"is not found at developer: ';
 	$s_download				= ' You can download here : ';
+		$s_config			= ' Configuration';
